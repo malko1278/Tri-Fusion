@@ -1,0 +1,4 @@
+Please enter the paths of the different files you want to sort
+Veuillez saisir les chemins des différents fichiers que vous souhaitez trier
+first file link to sort
+premier lien de fichier à trier

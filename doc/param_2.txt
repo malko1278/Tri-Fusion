@@ -1,0 +1,2 @@
+The number of files to be sorted is
+Le nombre de fichiers à trier est
